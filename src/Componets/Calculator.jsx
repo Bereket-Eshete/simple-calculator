@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { evaluate, re } from "mathjs";
+import { evaluate } from "mathjs";
 const buttons = [
   "7",
   "8",
